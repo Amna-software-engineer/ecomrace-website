@@ -1,0 +1,266 @@
+[
+  {
+    "image": "assets/images/product_1.png",
+    "price": 2899,
+    "name": "Women's Black Puffer Jacket",
+    "description": "A stylish and warm black puffer jacket for women. Features a high collar and a front zip closure. Perfect for staying cozy during cold weather while maintaining a modern look.",
+    "id": "1",
+    "quantity": 1
+  },
+  {
+    "image": "assets/images/product_2.png",
+    "price": 2599,
+    "name": "Women's White Long-Sleeve Shirt",
+    "description": "A versatile white long-sleeve top for a simple yet elegant look. Made from a comfortable, lightweight fabric. Great for layering or wearing on its own for various occasions.",
+    "id": "2",
+    "quantity": 1
+  },
+  {
+    "image": "assets/images/product_4.png",
+    "price": 3199,
+    "name": "Women's Beige Trench Coat",
+    "description": "A classic beige trench coat with a clean, minimalist design. The lightweight material is ideal for transitional weather. Features a relaxed fit for comfortable everyday wear.",
+    "id": "4",
+    "quantity": 1
+  },
+  {
+    "image": "assets/images/product_5.png",
+    "price": 3099,
+    "name": "Women's Black Leather Jacket",
+    "description": "A sleek black faux leather jacket with a modern cropped cut. Features a zip front and collar. A perfect addition to any wardrobe for a bold, edgy style.",
+    "id": "5",
+    "quantity": 1
+  },
+  {
+    "image": "assets/images/product_6.png",
+    "price": 3599,
+    "name": "Women's Black Winter Coat",
+    "description": "A sophisticated black winter coat with a wide collar and front buttons. This heavy-duty coat offers great warmth and a timeless aesthetic. Ideal for formal or casual winter outings.",
+    "id": "6",
+    "quantity": 1
+  },
+  {
+    "image": "assets/images/product_7.png",
+    "price": 2999,
+    "name": "Women's White Button-Up Blouse",
+    "description": "A crisp white button-up blouse, perfect for professional or casual settings. The lightweight fabric ensures comfort. A timeless piece that can be styled in countless ways.",
+    "id": "7",
+    "quantity": 1
+  },
+  {
+    "image": "assets/images/product_9.png",
+    "price": 2799,
+    "name": "Women's Pink Floral Blouse",
+    "description": "A vibrant pink blouse adorned with a delicate floral pattern. The soft fabric and flowy design make it comfortable for all-day wear. Perfect for a fresh, feminine spring or summer look.",
+    "id": "9",
+    "quantity": 1
+  },
+  {
+    "image": "assets/images/product_10.png",
+    "price": 3499,
+    "name": "Women's Red Puffer Jacket",
+    "description": "A bright red puffer jacket to make a statement. Provides excellent warmth with a padded design and full-zip front. Ideal for adding a pop of color to your winter wardrobe.",
+    "id": "10",
+    "quantity": 1
+  },
+  {
+    "image": "assets/images/product_12.png",
+    "price": 3899,
+    "name": "Women's Dark Grey Turtleneck",
+    "description": "A cozy dark grey turtleneck sweater, perfect for cold days. The ribbed collar and cuffs provide a snug fit. This versatile piece can be dressed up or down.",
+    "id": "12",
+    "quantity": 1
+  },
+  {
+    "image": "assets/images/product_13.png",
+    "price": 3599,
+    "name": "Men's Green Utility Jacket",
+    "description": "A rugged green utility jacket with multiple pockets for functionality. Made from a durable fabric, it's perfect for outdoor activities or a casual, masculine look. A reliable piece for all seasons.",
+    "id": "13",
+    "quantity": 1
+  },
+  {
+    "image": "assets/images/product_14.png",
+    "price": 3299,
+    "name": "Men's Black and White Track Jacket",
+    "description": "A sporty black and white track jacket with a modern design. Features a full-zip front and a stand-up collar. Ideal for an athletic or casual street-style outfit.",
+    "id": "14",
+    "quantity": 1
+  },
+  {
+    "image": "assets/images/product_15.png",
+    "price": 3499,
+    "name": "Men's Black and White Checkered Jacket",
+    "description": "A stylish jacket featuring a black and white checkered pattern on the sleeves. The fleece body ensures warmth and comfort. Perfect for a trendy, casual look.",
+    "id": "15",
+    "quantity": 1
+  },
+  {
+    "image": "assets/images/product_16.png",
+    "price": 3699,
+    "name": "Men's Red Puffer Vest",
+    "description": "A vibrant red puffer vest that provides warmth without the bulk. Perfect for layering over a hoodie or sweater. Features a zip front and side pockets for practicality.",
+    "id": "16",
+    "quantity": 1
+  },
+  {
+    "image": "assets/images/product_17.png",
+    "price": 3999,
+    "name": "Men's Blue Denim Jacket",
+    "description": "A classic blue denim jacket that never goes out of style. Made from high-quality denim, it's a durable and versatile piece. Perfect for a laid-back, timeless look.",
+    "id": "17",
+    "quantity": 1
+  },
+  {
+    "image": "assets/images/product_18.png",
+    "price": 4199,
+    "name": "Men's Grey Zip-Up Jacket",
+    "description": "A comfortable grey zip-up jacket made from a soft fleece material. Ideal for everyday wear and casual outings. Its simple design makes it easy to pair with any outfit.",
+    "id": "18",
+    "quantity": 1
+  },
+  {
+    "image": "assets/images/product_19.png",
+    "price": 3899,
+    "name": "Men's White and Black Jacket",
+    "description": "A sporty white and black jacket with a clean, modern design. Features a high collar and side stripes. Perfect for a cool, athletic-inspired aesthetic.",
+    "id": "19",
+    "quantity": 1
+  },
+  {
+    "image": "assets/images/product_20.png",
+    "price": 4099,
+    "name": "Men's Black Padded Vest",
+    "description": "A versatile black padded vest, offering extra warmth for the torso. Features a zip-up front and a high collar for protection. An excellent layering piece for chilly weather.",
+    "id": "20",
+    "quantity": 1
+  },
+  {
+    "image": "assets/images/product_21.png",
+    "price": 4299,
+    "name": "Men's Colorblock Jacket",
+    "description": "A bold colorblock jacket with red, blue, and white panels. This eye-catching piece features a zip front and a loose fit. Perfect for making a fashion statement.",
+    "id": "21",
+    "quantity": 1
+  },
+  {
+    "image": "assets/images/product_22.png",
+    "price": 3799,
+    "name": "Men's Blue and White Track Jacket",
+    "description": "A classic blue and white track jacket with a sporty feel. The contrasting stripes on the sleeves add a dynamic touch. Ideal for a comfortable and stylish casual look.",
+    "id": "22",
+    "quantity": 1
+  },
+  {
+    "image": "assets/images/product_23.png",
+    "price": 3399,
+    "name": "Men's Grey Hoodie",
+    "description": "A simple and cozy grey hoodie, a must-have for any casual wardrobe. Features an adjustable drawstring hood and a front kangaroo pocket. Perfect for everyday comfort.",
+    "id": "23",
+    "quantity": 1
+  },
+  {
+    "image": "assets/images/product_24.png",
+    "price": 2799,
+    "name": "Men's Black Long-Sleeve Shirt",
+    "description": "A basic black long-sleeve shirt made from a soft cotton blend. A versatile piece that can be worn alone or as a base layer. An essential item for any wardrobe.",
+    "id": "24",
+    "quantity": 1
+  },
+  {
+    "image": "assets/images/product_25.png",
+    "price": 3199,
+    "name": "Men's Blue Hoodie with Graphic",
+    "description": "A vibrant blue hoodie featuring a unique white graphic on the chest. The soft fleece lining provides warmth and comfort. Perfect for a standout casual look.",
+    "id": "25",
+    "quantity": 1
+  },
+  {
+    "image": "assets/images/product_26.png",
+    "price": 2999,
+    "name": "Men's Black Hoodie with Graphic",
+    "description": "A stylish black hoodie with a bold white graphic on the front. Made from a comfortable cotton blend with a relaxed fit. An essential piece for a cool, casual style.",
+    "id": "26",
+    "quantity": 1
+  },
+  {
+    "image": "assets/images/product_27.png",
+    "price": 3399,
+    "name": "Men's Black and White Hoodie",
+    "description": "A two-tone hoodie featuring a black body and white accents. This modern design with a drawstring hood is perfect for a trendy, relaxed look. Made for comfort and style.",
+    "id": "27",
+    "quantity": 1
+  },
+  {
+    "image": "assets/images/product_28.png",
+    "price": 2899,
+    "name": "Men's Green Pullover",
+    "description": "A cozy green pullover sweater with a classic crewneck design. Made from a soft, breathable material, it's perfect for a comfortable, simple style. A versatile piece for various occasions.",
+    "id": "28",
+    "quantity": 1
+  },
+  {
+    "image": "assets/images/product_29.png",
+    "price": 3599,
+    "name": "Men's Black and Yellow Hoodie",
+    "description": "A trendy hoodie featuring a black body and a bold yellow graphic on the chest. The comfortable fit and soft fabric make it a great choice for casual wear. Perfect for a modern, edgy look.",
+    "id": "29",
+    "quantity": 1
+  },
+  {
+    "image": "assets/images/product_30.png",
+    "price": 3699,
+    "name": "Men's Green Hooded Jacket",
+    "description": "A stylish green hooded jacket with a zip-up front and drawstring hood. Made from a durable, weather-resistant material. A perfect piece for a casual, rugged style.",
+    "id": "30",
+    "quantity": 1
+  },
+  {
+    "image": "assets/images/product_31.png",
+    "price": 3199,
+    "name": "Men's Light Blue Denim Jacket",
+    "description": "A classic light blue denim jacket with a relaxed fit. The distressed details give it a vintage feel. A timeless piece that can be worn year-round.",
+    "id": "31",
+    "quantity": 1
+  },
+  {
+    "image": "assets/images/product_32.png",
+    "price": 3299,
+    "name": "Men's Blue and White Hoodie",
+    "description": "A vibrant blue and white hoodie with a dynamic design. The lightweight material is comfortable for daily wear. A standout piece for a sporty, casual style.",
+    "id": "32",
+    "quantity": 1
+  },
+  {
+    "image": "assets/images/product_33.png",
+    "price": 2999,
+    "name": "Men's Grey Hooded Pullover",
+    "description": "A comfortable grey hooded pullover with a simple, clean design. Features a front pocket and a soft interior. Perfect for layering and staying warm on cool days.",
+    "id": "33",
+    "quantity": 1
+  },
+  {
+    "image": "assets/images/product_34.png",
+    "price": 3099,
+    "name": "Men's Black Bomber Jacket",
+    "description": "A sleek black bomber jacket with a minimalist design. Features a zip front and ribbed cuffs and collar. A versatile and stylish piece for a modern, casual look.",
+    "id": "34",
+    "quantity": 1
+  },
+  {
+    "image": "assets/images/product_35.png",
+    "price": 2799,
+    "name": "Men's Black T-shirt with Graphic",
+    "description": "A comfortable black T-shirt featuring a stylized white graphic on the chest. Made from soft cotton, it's perfect for a simple and modern look. A great addition to a casual wardrobe.",
+    "id": "35",
+    "quantity": 1
+  },
+  {
+    "image": "assets/images/product_36.png",
+    "price": 3199,
+    "name": "Men's Grey and Black Hoodie",
+    "description": "A unique hoodie featuring a split grey and black design. This eye-catching piece has a comfortable fit and a large front pocket. Perfect for a bold, street-style look.",
+    "id": "36",
+    "quantity": 1
+  }
+]

@@ -1,0 +1,10 @@
+Ek Responsive E-Commerce Product Dashboard banayein jisme
+
+Product Listing Page (Home Page) – Products ki list API se fetch karein (fake store API ya apni banayi mock API). Har product card me image, name, price aur Add to Cart button ho.
+Product Detail Page – Jab user product par click kare to React Router ka use karke ek alag page par product details show karein.
+Cart System (Context API ya Redux) – User jo products add kare, wo global state me store ho aur Cart Page par show ho jahan user quantity increase/decrease kar sake aur total amount calculate ho.
+
+Hooks Usage – useState, useEffect API data fetch karne aur UI update karne ke liye use karein; useContext ya Redux cart ke liye.
+SPA Navigation – React Router ka use karke Home, Product Detail aur Cart pages ke beech navigate karein.
+Responsive UI – Bootstrap ya Tailwind CSS ka use karke professional aur mobile-friendly design banayein.
+Deployment – Project ko GitHub repository par push karein aur GitHub Pages ke zariye live deploy karein.
