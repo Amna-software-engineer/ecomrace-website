@@ -3,21 +3,14 @@ import ProductCard from './ProductCard'
 import Loader from './Loader'
 import { useGetProductsQuery } from '../feature/injectedProductApi'
 
-
 const Home = () => {
   const {  isLoading, isError, error } = useGetProductsQuery()
-
-
-  // console.log(products)
   return (
-
    <>
     {
       isLoading ? <Loader/>: <ProductCard />
     }
-    </>
- 
-    
+    </> 
   )
 }
 

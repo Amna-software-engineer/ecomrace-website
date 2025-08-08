@@ -22,7 +22,6 @@ const Navbar = () => {
                 : 'border-black border-b-2'
             }}
           >
-            {' '}
             Home
           </NavLink>
         </li>
@@ -39,7 +38,6 @@ const Navbar = () => {
               isActive ? 'border-white border-b-2' : 'border-black border-b-2'
             }
           >
-            {' '}
             Cart
             <sup className='ms-1 text-sm'>{totalQuantity}</sup>
           </NavLink>
